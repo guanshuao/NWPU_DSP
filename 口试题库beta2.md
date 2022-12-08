@@ -8,7 +8,7 @@
 
 限于时间和编者水平的限制，本文档难免出现纰漏和错误，欢迎联系 [guanshu_ao@mail.nwpu.edu.cn](mailto:guanshu_ao@mail.nwpu.edu.cn) 批评指正。
 
-同时，笔者将相关课程资料上传至网址 https://github.com/guanshuao/NWPU_DSP，力求帮助到有需要的人。
+同时，笔者将相关课程资料上传至网址 https://github.com/guanshuao/NWPU_DSP ，力求帮助到有需要的人。
 
 希望我们的努力能提供一份绵薄之力。
 
